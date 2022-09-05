@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "ProductName": "Tast",
+      "ProductDescription": "TEst",
+      "ProductPrice": "TEst",
+      "id": 1
+    },
+    {
+      "ProductName": "Bob",
+      "ProductDescription": "Bobington",
+      "ProductPrice": "10€",
+      "id": 2
+    }
+  ],
+  "stock": []
+}
